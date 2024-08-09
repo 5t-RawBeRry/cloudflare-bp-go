@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	cloudflarebp "github.com/DaRealFreak/cloudflare-bp-go"
+	cloudflarebp "github.com/5t-RawBeRry/cloudflare-bp-go"
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/proxy"
