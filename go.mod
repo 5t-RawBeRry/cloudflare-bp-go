@@ -1,4 +1,4 @@
-module github.com/DaRealFreak/cloudflare-bp-go
+module github.com/5t-RawBeRry/cloudflare-bp-go
 
 go 1.17
 
